@@ -1,4 +1,6 @@
-HOTFIX - EDIT 2 
+HOTFIX - EDIT 2 / 3
+
+
 ## Welcome to Thirty Minutes to Merge
 
 A project based learning activity for people who are getting started with branching with Git.
